@@ -8,7 +8,7 @@ int main(){
 
 	printf("Hello world\n");
 
-
+	printf("i'm Function B\n"); 
 
 
 
