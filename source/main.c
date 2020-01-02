@@ -14,6 +14,8 @@ int main(){
 	printf("i'm Function B\n"); 
 
 	printf("receive README!!\n");
+	
+	printf("build branch and upload\n");
 
 
 	system("pause");
