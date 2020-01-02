@@ -13,7 +13,7 @@ int main(){
 
 	printf("i'm Function B\n"); 
 
-
+	printf("receive README!!\n");
 
 
 	system("pause");
