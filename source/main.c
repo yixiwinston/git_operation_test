@@ -16,6 +16,8 @@ int main(){
 	printf("receive README!!\n");
 	
 	printf("build branch and upload\n");	//add
+	
+	printf("clone\n");
 
 
 	system("pause");
