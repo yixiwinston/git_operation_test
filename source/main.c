@@ -8,9 +8,7 @@ int main(){
 
 	printf("Hello world\n");
 
-
-
-
+	printf("\n\nI'm function A\n\n'");
 
 	system("pause");
 	return 0;
